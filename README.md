@@ -1,2 +1,0 @@
-# Ecom
-Ecomerce web-app
